@@ -1,0 +1,15 @@
+body, html, div#root {
+    height: 100%;
+}
+
+div.main-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+div.card-item {
+    width: 12.5%;
+    border: 1px solid black;
+    cursor: pointer;
+}
